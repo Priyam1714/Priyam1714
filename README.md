@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyam1714
+- 👋 Hi, I’m @Priyam_chandra28
 - 👀 I’m interested in Data Science / Machine Learning
 - 🌱 I’m currently learning Python, SQL, C++
 - 💞️ I’m looking to collaborate on a Data Science/ Machine Learning Project.
